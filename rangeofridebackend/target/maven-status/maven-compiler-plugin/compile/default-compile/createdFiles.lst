@@ -1,0 +1,14 @@
+com\rangeofride\dao\registerdao.class
+com\rangeofride\model\Register.class
+com\rangeofride\rangeofridedaoimpl\supplierdaoimpl.class
+com\rangeofride\dao\supplierdao.class
+com\rangeofride\model\supplier.class
+com\rangeofride\rangeofridedaoimpl\registerdaoimpl.class
+com\rangeofride\dao\categorydao.class
+com\rangeofride\rangeofridebackend\Appconfig.class
+com\rangeofride\rangeofridedaoimpl\categorydaoimpl.class
+com\rangeofride\rangeofridedaoimpl\productdaoimpl.class
+com\rangeofride\dao\productdao.class
+com\rangeofride\model\category.class
+com\rangeofride\rangeofridebackend\App.class
+com\rangeofride\model\product.class
