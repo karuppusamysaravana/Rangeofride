@@ -8,11 +8,11 @@
                     <form action="login">
                         <div class="form-group">
                             <label for="email" class="sr-only">Email</label>
-                            <input type="text" name="usename" id="userpassword" class="form-control" placeholder="somebody@example.com">
+                            <input type="text" name="email" id="email" class="form-control" placeholder="somebody@example.com">
                         </div>
                         <div class="form-group">
                             <label for="key" class="sr-only">Password</label>
-                            <input type="text" name="password" id="Password" class="form-control" placeholder="Password">
+                            <input type="password" name="password" id="Password" class="form-control" placeholder="Password">
                         </div>
                         
                         <button type="submit" id="btn-login" class="btn btn-custom btn-lg btn-block"value="Login">LOG IN</button>

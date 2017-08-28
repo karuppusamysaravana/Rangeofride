@@ -108,21 +108,21 @@ section#contact .text-danger {
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" placeholder="Your Name *" id="name" required="" data-validation-required-message="Please enter your name.">
+                                        <input type="text" class="form-control" placeholder="Your Name" id="name" required="" data-validation-required-message="Please enter your name.">
                                         <p class="help-block text-danger"></p>
                                     </div>
                                     <div class="form-group">
                                         <input type="email" class="form-control" placeholder="Your Email *" id="email" required="" data-validation-required-message="Please enter your email address.">
                                         <p class="help-block text-danger"></p>
-                                    </div>
-                                    <div class="form-group">
+                                  </div>
+                                   <div class="form-group">
                                         <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required="" data-validation-required-message="Please enter your phone number.">
                                         <p class="help-block text-danger"></p>
                                     </div>
+                                 
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <iframe src="<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=yes'></script><div style='overflow:hidden;height:538px;width:717px;'><div id='gmap_canvas' style='height:538px;width:717px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://indiatvnow.com/'>INDIATVnow.com</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=7496176910b9710b6138e6f01d7092fd6d6ed374'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:12,center:new google.maps.LatLng(11.0211251,76.97616310000001),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(11.0211251,76.97616310000001)});infowindow = new google.maps.InfoWindow({content:'<strong>niit</strong><br>100.feetroad,ganthipuaram,coimbatore.<br>641012 Coimbatore<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>">
                                         <p class="help-block text-danger"></p>
                                     </div>
                                 </div>
@@ -136,11 +136,11 @@ section#contact .text-danger {
                     </div>
                     <div class="col-md-4">
                         <p style="color:#fff;">
-                            <strong><i class="fa fa-map-marker"></i> Address</strong><br>
-                            1216/Mirpur_10 Beach, Dhaka(Bangladesh)
+                        <strong><i class="fa fa-map-marker"></i> Address</strong><br>
+                            karpagam complex(),100-feet road,Gandhipuram, Coimbatore(Tamilnadu)
                         </p>
                         <p style="color:#fff;"><strong><i class="fa fa-phone"></i> Phone Number</strong><br>
-                            (+8801)7123456</p>
+                            (7904602493)</p>
                         <p style="color:#fff;">
                             <strong><i class="fa fa-envelope"></i>  Email Address</strong><br>
                             Email@info.com</p>

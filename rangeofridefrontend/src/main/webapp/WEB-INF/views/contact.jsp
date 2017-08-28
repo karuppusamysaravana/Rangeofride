@@ -119,9 +119,10 @@ section#contact .text-danger {
                                         <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required="" data-validation-required-message="Please enter your phone number.">
                                         <p class="help-block text-danger"></p>
                                     </div>
-                          <div class="col-md-6">
+                                 
+                                </div>
+                                <div class="col-md-6">
                                     <div class="form-group">
-                                        <textarea class="form-control" placeholder="Your Message *" id="message" required="" data-validation-required-message="Please enter a message."></textarea>
                                         <p class="help-block text-danger"></p>
                                     </div>
                                 </div>
@@ -133,7 +134,6 @@ section#contact .text-danger {
                             </div>
                         </form>
                     </div>
-    
                     <div class="col-md-4">
                         <p style="color:#fff;">
                         <strong><i class="fa fa-map-marker"></i> Address</strong><br>

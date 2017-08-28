@@ -3,9 +3,10 @@
 	<div data-role="mySlides">
 		<ul style="padding-left: 0px;">
 		
-			<img class="mySlides" src="resources/images/p33.jpg" width="100%" height="100%" style="display : none">
-			<img class="mySlides" src="resources/images/p22.jpg" width="1325" height="540">
-			<img class="mySlides" src="resources/images/p11.jpg" width="1325" height="540">
+			<img class="mySlides" src="resources/images/p1.jpg" width="100%" height="auto" style="display : none">
+			<img class="mySlides" src="resources/images/p2.jpg" width="100%" height="40%" style="display : none">
+			<img class="mySlides" src="resources/images/p3.jpg" width="100%" height="40%" style="display : none">
+		 </style>
 		</ul>
 	</div>
 </div>

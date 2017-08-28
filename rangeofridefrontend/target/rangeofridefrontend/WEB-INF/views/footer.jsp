@@ -9,7 +9,7 @@
 .footer {
  	position: fixed;
 	bottom: 0px;
-	background:#000000;
+	background: #000000;
 	height: auto;
 	width: 100%;
 	border-bottom: 1px;
@@ -26,7 +26,7 @@
 	color: #7F8C8D;
 }
 .social li {
-	background: none repeat scroll 0 0 ;
+	background: none repeat scroll 0 0 #000000;
 	border: 2px solid #B5B5B5;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
@@ -61,7 +61,7 @@
 
 .social li:hover {
 	border: 0px solid #2c3e50;
-	background: #808080;
+	background: 6df900;
 }
 
 .social li a i {
@@ -76,7 +76,7 @@
 
 .footer-bottom p.pull-left {
 	padding-top: 6px;
-	color: white;
+	color: #CDC0B0;
 	font-weight: bolder;
 }
 </style>
@@ -91,20 +91,15 @@
 							Reserved.</p>
 						<div class="pull-right">
 							<ul class="social">
-							    <li><a img src="resources/images/fb.jpg" width="45" height="35"> </a></li>
-							    <li><a img src="resources/images/lin.jpg" width="45" height="35"> </a></li>
-							    <li><a img src="resources/images/t.jpg" width="45" height="35"> </a></li>
-							    <li><a img src="resources/images/yt.jpg" width="45" height="35"> </a></li>
-<!-- 							
-	<li><a href="#"> <i class=" fa fa-facebook"> </i> -->
+								<li><a href="#"> <i class=" fa fa-facebook"> </i>
 								</a></li>
-<!-- 								<li><a href="#"> <i class="fa fa-twitter"> </i> -->
+								<li><a href="#"> <i class="fa fa-twitter"> </i>
 								</a></li>
-<!-- 								<li><a href="#"> <i class="fa fa-google-plus"> </i> -->
+								<li><a href="#"> <i class="fa fa-google-plus"> </i>
 								</a></li>
-<!-- 								<li><a href="#"> <i class="fa fa-pinterest"> </i> -->
+								<li><a href="#"> <i class="fa fa-pinterest"> </i>
 								</a></li>
-<!-- 								<li><a href="#"> <i class="fa fa-youtube"> </i> -->
+								<li><a href="#"> <i class="fa fa-youtube"> </i>
 								</a></li>
 							</ul>
 						</div>
